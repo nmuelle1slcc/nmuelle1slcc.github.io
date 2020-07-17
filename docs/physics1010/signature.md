@@ -51,7 +51,7 @@ PHYS-1010-501-Su20
 - Question 4: If it is possible to change mass into energy, you could produce a titanic amount of energy from a tiny bit of mass. To put it into perspective, the energy it would take to lift that same 1kg a meter from the ground on earth takes only 9.8 J of energy. According to my math (apologies if it’s incorrect), the energy that could be converted from a 1kg mass would be enough energy to lift another 1kg mass 1m from the ground 9,200,000,000,000,000, or 9.2 x 10¹⁵ times! “A little bit of mass could produce a lot of energy” is the understatement of all space and time.
 
 ### Equation 2: d = gt²/2
-- Question 5: Since the parts of the equation are only distance, acceleration, and time, (a) cannot be true. And by that reasoning, (b) must be true. We can see this in action if you drop a bowling ball and a feather together in a vacuum: https://www.youtube.com/watch?v=74MUjUj7bp8
+- Question 5: Since the parts of the equation are only distance, acceleration, and time, (a) cannot be true. And by that reasoning, (b) must be true. We can see this in action if you drop a bowling ball and a feather together in a vacuum: [https://www.youtube.com/watch?v=74MUjUj7bp8](https://www.youtube.com/watch?v=74MUjUj7bp8)
 
 ### Equation 3: v = gt
 - Question 6: Using the same reasoning as in question 5, we can determine that (c) cannot be true because the velocity is only determined by acceleration by time. Once again, (d) must be true by that reasoning.
