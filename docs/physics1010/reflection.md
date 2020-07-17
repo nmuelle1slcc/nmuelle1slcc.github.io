@@ -3,6 +3,8 @@
 Natalie Mueller  
 PHYS-1010-501-Su20
 
+[🔗 Download Reflection Essay](reflection.pdf)
+
 # Reflection Essay
 When beginning the Signature Assignment, I decided to start with the Equation Analysis section since I figured numbers are objective and it would be easy for me to complete this section. I soon discovered that when trying to write and solve equations on my own, I ended up needing to look at about five different sources to verify I was making my calculations correctly. And even though I thought I could provide a succinct explanation of the reasoning behind these equations, I still ended up cross-referencing several different places because I was second-guessing myself.
 

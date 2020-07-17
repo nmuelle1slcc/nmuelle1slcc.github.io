@@ -3,6 +3,8 @@
 Natalie Mueller  
 PHYS-1010-501-Su20
 
+[🔗 Download Signature Assignment](signature.pdf)
+
 # Signature Assignment
 
 ## Part 1 - Star Identification
