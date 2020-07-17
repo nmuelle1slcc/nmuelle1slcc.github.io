@@ -1,4 +1,4 @@
-Natalie Mueller
+Natalie Mueller  
 PHYS-1010-501-Su20
 
 # Signature Assignment
