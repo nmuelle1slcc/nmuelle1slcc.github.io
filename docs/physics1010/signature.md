@@ -3,6 +3,7 @@ PHYS-1010-501-Su20
 
 # Signature Assignment
 ## Part 1 - Star Identification
+![Labeled stars](/images/labeledstars.png)
 ### Rigel
 1. Rigel is actually formed by a star system that contains multiple stars. It is located in the bottom right of the image and appears brighter than the other labeled stars.
 2. Rigel is approximately 780 to 860 light-years away from Earth.
