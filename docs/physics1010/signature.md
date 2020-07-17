@@ -1,3 +1,5 @@
+(⬅️ Back)[/index.md]
+
 Natalie Mueller  
 PHYS-1010-501-Su20
 
@@ -38,21 +40,23 @@ PHYS-1010-501-Su20
 ## Part 2 - Equation Analysis
 
 ### Equation 1: E = mc²
-1. The figures in the equation represent the following:
+- Question 1: The figures in the equation represent the following:
   * ‘E’ is the variable for ‘Energy’
   * ‘m’ is the variable for ‘mass’
   * ‘c’ is a constant that represents ‘the speed of light’ (300,000,000 meters/second, also written as 3 x 10⁸ m/s)
-2. ‘c²’ is equal to 90,000,000,000,000,000 meters squared per second squared, or 9 x 10¹⁶ m²/s²
-3. Yes, mass and energy are positively correlated—if mass increases, energy also increases, and vice versa. We can verify this by plugging some numbers into the equation and solving for the remaining variable:
+- Question 2: ‘c²’ is equal to 90,000,000,000,000,000 meters squared per second squared, or 9 x 10¹⁶ m²/s²
+- Question 3: Yes, mass and energy are positively correlated—if mass increases, energy also increases, and vice versa. We can verify this by plugging some numbers into the equation and solving for the remaining variable:
   * Plugging ‘m’ = ‘1kg’ into the equation E = 1kg x (300,000,000 m/s)², we end up with E = 90,000,000,000,000,000 kg x m²/s², or E = 9 x 10¹⁶ J
   * Plugging ‘m’ = ‘2kg’ into the equation E = 2kg x (300,000,000 m/s)² instead shows us that E = 2 kg x (90,000,000,000,000,000  m²/s²), E = 180,000,000,000,000,000 kg x m²/s², or E = 1.8 x 10¹⁷ J
-4. If it is possible to change mass into energy, you could produce a titanic amount of energy from a tiny bit of mass. To put it into perspective, the energy it would take to lift that same 1kg a meter from the ground on earth takes only 9.8 J of energy. According to my math (apologies if it’s incorrect), the energy that could be converted from a 1kg mass would be enough energy to lift another 1kg mass 1m from the ground 9,200,000,000,000,000, or 9.2 x 10¹⁵ times! “A little bit of mass could produce a lot of energy” is the understatement of all space and time.
+- Question 4: If it is possible to change mass into energy, you could produce a titanic amount of energy from a tiny bit of mass. To put it into perspective, the energy it would take to lift that same 1kg a meter from the ground on earth takes only 9.8 J of energy. According to my math (apologies if it’s incorrect), the energy that could be converted from a 1kg mass would be enough energy to lift another 1kg mass 1m from the ground 9,200,000,000,000,000, or 9.2 x 10¹⁵ times! “A little bit of mass could produce a lot of energy” is the understatement of all space and time.
+
 ### Equation 2: d = gt²/2
-5. Since the parts of the equation are only distance, acceleration, and time, (a) cannot be true. And by that reasoning, (b) must be true. We can see this in action if you drop a bowling ball and a feather together in a vacuum: https://www.youtube.com/watch?v=74MUjUj7bp8
+- Question 5: Since the parts of the equation are only distance, acceleration, and time, (a) cannot be true. And by that reasoning, (b) must be true. We can see this in action if you drop a bowling ball and a feather together in a vacuum: https://www.youtube.com/watch?v=74MUjUj7bp8
+
 ### Equation 3: v = gt
-6. Using the same reasoning as in question 5, we can determine that (c) cannot be true because the velocity is only determined by acceleration by time. Once again, (d) must be true by that reasoning.
-7. It’s difficult to test for a lot of variables in isolation, especially since air resistance is everywhere on earth. Someone who uses a feather and a bowling ball to test which one falls faster would see that a feather slowly floats to the ground and might mistakenly attribute that to its weight instead of the effect of air resistance.
-8. Gravity’s pull on an object is greater if the object is more massive, but this increased force is canceled out by that mass’s inertia, which is what makes objects resist changes in motion. A more massive object will have both greater weight and greater inertia, which cancel each other out in regards to free fall.
+- Question 6: Using the same reasoning as in question 5, we can determine that (c) cannot be true because the velocity is only determined by acceleration by time. Once again, (d) must be true by that reasoning.
+- Question 7: It’s difficult to test for a lot of variables in isolation, especially since air resistance is everywhere on earth. Someone who uses a feather and a bowling ball to test which one falls faster would see that a feather slowly floats to the ground and might mistakenly attribute that to its weight instead of the effect of air resistance.
+- Question 8: Gravity’s pull on an object is greater if the object is more massive, but this increased force is canceled out by that mass’s inertia, which is what makes objects resist changes in motion. A more massive object will have both greater weight and greater inertia, which cancel each other out in regards to free fall.
 
 ## Part 3 - Learning about a law of physics
 Boyle’s Law is a physics law, written as k = PV or sometimes P₁V₁ = P₂V₂, which says that a gas’s pressure and volume multiplied together will always equal the same value (a constant) given a constant temperature (at different temperatures, k will be different.)
