@@ -1,4 +1,4 @@
-[⬅️ Back](/index.md)
+[⬅️ Back](/)
 
 Natalie Mueller  
 PHYS-1010-501-Su20
