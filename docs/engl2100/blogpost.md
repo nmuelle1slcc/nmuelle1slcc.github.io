@@ -34,7 +34,6 @@ There’s not an easy solution to this problem, but there are a few different op
 
 What do you think? Do companies have a responsibility to try and mitigate the waste from their products? Or should fans simply purchase less and stop collecting photocards and albums?
 
-Sources used:
-Catacatacaka. (2018, November 30). Kpop Album Packaging: The Good, The Bad & The Ugly. Catacatacaka. https://catacatacaka.wordpress.com/2018/11/30/kpop-album-packaging-the-good-the-bad-the-ugly/
-Korean fans destroy what international fans always desired: idols’ albums and posters. (n.d.). K-BUZZ. https://kbizoom.com/korean-fans-destroy-what-international-fans-always-desired-idols-albums-and-posters
-
+### Sources used:  
+Catacatacaka. (2018, November 30). Kpop Album Packaging: The Good, The Bad & The Ugly. Catacatacaka. https://catacatacaka.wordpress.com/2018/11/30/kpop-album-packaging-the-good-the-bad-the-ugly/  
+Korean fans destroy what international fans always desired: idols’ albums and posters. (n.d.). K-BUZZ. https://kbizoom.com/korean-fans-destroy-what-international-fans-always-desired-idols-albums-and-posters  
