@@ -1,4 +1,4 @@
-SLCC Student Portfolio  
+SLCC Student ePortfolio  
 Natalie Mueller
 
 
