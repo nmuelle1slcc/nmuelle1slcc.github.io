@@ -1,45 +1,48 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 @media (min-width: 576px) {
-    body {
+    .main {
         max-width: 540px;
     }
 }
 
 @media (min-width: 768px) {
-    body {
+    .main {
         max-width: 720px;
     }
 }
 
 @media (min-width: 992px) {
-    body {
+    .main {
       max-width: 960px;
     }
 }
 
 body {
-    width: 100%;
-    /* background-color: #d2c0b2; */
-    margin-right: auto;
-    margin-left: auto;
+    margin: 0;
     font-family: 'Roboto', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 300;
     font-size: 1.25em;
 }
 
 .main {
-    margin: 0;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
     padding: 15px;
 }
 
 h1, h2, h3, h4, h5, h6 {
     background-color: #000;
-    color: #fdff56;
+    color: #ff6666;
+}
+
+h1 {
+    font-size:3em;
 }
 
 strong {
-    background-color: #fdff56;
+    background-color: #ff6666;
     font-style: italic;
 }
 
@@ -50,12 +53,12 @@ small {
 }
 
 a:link, a:visited {
-    color: #117dc1;
+    color: #017e80;
 }
 
 a:hover {
     background-color: #000;
-    color: #fdff56;
+    color: #ff6666;
 }
 
 .sources {
