@@ -1,6 +1,6 @@
 [⬅️ Back](/)
 
-Natalie Mueller
+Natalie Mueller  
 ENGL-2100-506-507-508-F20
 
 # Project 3
