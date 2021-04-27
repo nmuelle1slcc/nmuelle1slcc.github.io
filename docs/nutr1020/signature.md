@@ -5,7 +5,7 @@ NUTR-1020-519-521-Sp21
 
 # Signature Assignment: Extension of Nutrition Perspectives
 
-[Learning Outcomes 🔗 Download](learningoutcome.pdf)  
+[Learning Outcomes 🔗 Download](learningoutcomes.pdf)  
 [Nutrition Perspectives 🔗 Download](nutritionperspectives.pdf)  
 [Reflection 🔗 Download](reflection.pdf)  
 
