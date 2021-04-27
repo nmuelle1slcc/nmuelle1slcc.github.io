@@ -18,4 +18,4 @@ My dream in life is to run a small business and help people.
 [Project 3](docs/engl2100/project3.md)
 
 # NUTR 1020
-[Signature Assignment](docs/nutr/signature.md)
+[Signature Assignment](docs/nutr1020/signature.md)
