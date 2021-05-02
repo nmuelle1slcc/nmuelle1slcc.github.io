@@ -19,3 +19,6 @@ My dream in life is to run a small business and help people.
 
 # NUTR 1020
 [Signature Assignment](docs/nutr1020/signature.md)
+
+# COMM 1080
+[Signature Assignment and Reflection](docs/comm1080/signature.md)
