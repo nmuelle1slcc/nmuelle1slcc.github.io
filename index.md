@@ -22,3 +22,6 @@ My dream in life is to run a small business and help people.
 
 # COMM 1080
 [Signature Assignment and Reflection](docs/comm1080/signature.md)
+
+# HLTH 1050
+[Signature Assignment](docs/hlth1050/signature.md)
